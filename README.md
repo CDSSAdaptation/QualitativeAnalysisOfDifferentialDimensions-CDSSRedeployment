@@ -1,4 +1,5 @@
-Qualitative Analysis of Differential Dimensions in CDSS Redeployment
+**Qualitative Analysis of Differential Dimensions in CDSS Redeployment**
+
 Overview
 
 This repository contains the qualitative study materials and supporting artifacts for research on the redeployment of Clinical Decision Support Systems (CDSS) across heterogeneous healthcare ecosystems.
